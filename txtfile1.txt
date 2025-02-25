@@ -1,3 +1,6 @@
 txtfile 1
 New Update
 Next update
+
+
+Merged file new content1
